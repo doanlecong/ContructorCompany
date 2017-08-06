@@ -9,17 +9,18 @@
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="FlameOnePage freebie theme for web startups by FairTech SEO." name="description"/>
         <meta content="FairTech" name="author"/>
-        <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700|Lobster:bold,bolditalic,italic" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700|Lobster&amp;subset=cyrillic,latin-ext,vietnamese" rel="stylesheet">
+        <!-- <link href="http://fonts.googleapis.com/css?family=Lobster:bold,bolditalic,italic,300,400,500,600,700" rel="stylesheet" type="text/css"> -->
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <link href="vendor/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css"/>
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/animate.css" rel="stylesheet">
         <link href="vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/layout.min.css" rel="stylesheet" type="text/css"/>
+        <link href="css/layout.css" rel="stylesheet" type="text/css"/>
         <link rel="shortcut icon" href="favicon.ico"/>
     </head>
    
-  
+  <!--Hind:300,400,500,600,700| font family  -->
     <body id="body" data-spy="scroll" data-target=".header">
 
           <header class="header navbar-fixed-top">
@@ -33,7 +34,7 @@
 
                           <div class="logo">
                             <a class="logo-wrap" href="#body">
-                                <img class="logo-img logo-img-main" src="img/logo.png" alt="FlameOnePage Logo">
+                                <img class="logo-img logo-img-main" src="img/tamdungtam.png" alt="FlameOnePage Logo">
                                 <img class="logo-img logo-img-active" src="img/logo-dark.png" alt="FlameOnePage Dark Logo">
                             </a>
                         </div>
@@ -41,13 +42,13 @@
 
                     <div class="collapse navbar-collapse nav-collapse">
 					
-                        <div class="language-switcher">
+                        <!-- <div class="language-switcher">
                             <ul class="nav-lang">
                                 <li><a class="active" href="#">EN</a></li>
                                 <li><a href="#">DE</a></li>
                                 <li><a href="#">FR</a></li>
                             </ul>
-                        </div>  
+                        </div>   -->
                         <div class="menu-container">
                             <ul class="nav navbar-nav navbar-nav-right">
                                 <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#body">Trang Chủ</a></li>
@@ -78,7 +79,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h1 class="carousel-title">Hi-End Solutions</h1>
+                                <h1 class="carousel-title">Bla Bla Bla...</h1>
                                 <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Details</a>
@@ -90,7 +91,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title">Personal Approach</h2>
+                                <h2 class="carousel-title">Bla Lslelel VLe</h2>
                                 <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Take a Tour</a>
