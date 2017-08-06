@@ -1,38 +1,44 @@
-
-// Body
-$body-bg: #f5f8fa;
-
-// Borders
-$laravel-border-color: darken($body-bg, 10%);
-$list-group-border: $laravel-border-color;
-$navbar-default-border: $laravel-border-color;
-$panel-default-border: $laravel-border-color;
-$panel-inner-border: $laravel-border-color;
-
-// Brands
-$brand-primary: #3097D1;
-$brand-info: #8eb4cb;
-$brand-success: #2ab27b;
-$brand-warning: #cbb956;
-$brand-danger: #bf5329;
-
+// ==================================
 // Typography
-$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
-$font-family-sans-serif: "Raleway", sans-serif;
-$font-size-base: 14px;
-$line-height-base: 1.6;
-$text-color: #636b6f;
+// ==================================
+//
+// Font, line-height, and color for body text, headings, and more.
 
-// Navbar
-$navbar-default-bg: #fff;
+$font-family-base:                                              		Hind, sans-serif !default; // Hind font family
+$font-family-sl-icons:                                              	Simple-Line-Icons !default; // Simple Line Icons third-party icons plugin
 
-// Buttons
-$btn-default-color: $text-color;
+// Colors
+$color-base:                                                            #17bed2 !default;
+$color-white:                                                           #fff !default;
+$color-heading:                                                        	#515769 !default;
+$color-subtitle:                                                        #a6a7aa !default;
+$color-link:                                                        		#81848f !default;
+$color-link-hover:                                                      #999caa !default;
+$color-sky-light:                                                      	#fafafa !default;
+	
 
-// Inputs
-$input-border: lighten($text-color, 40%);
-$input-border-focus: lighten($brand-primary, 25%);
-$input-color-placeholder: lighten($text-color, 30%);
+// ==================================
+// Media queries breakpoints
+// ==================================
+//
+//Define the breakpoints at which your layout will change, adapting to different screen sizes.
 
-// Panels
-$panel-default-heading-bg: #fff;
+// Extra small screen / phone
+$screen-xs-min:                											480px !default;
+
+// Small screen / tablet
+$screen-sm-min:                											768px !default;
+
+// Medium screen / desktop
+$screen-md-min:                											992px !default;
+
+// Large screen / wide desktop
+$screen-lg-min:                											1200px !default;
+
+// Large scree / wider desktop
+$screen-lg-med:                     									1260px !default;
+
+// So media queries don't overlap when required, provide a maximum
+$screen-xs-max:             											($screen-sm-min - 1) !default;
+$screen-sm-max:                											($screen-md-min - 1) !default;
+$screen-md-max:                											($screen-lg-min - 1) !default;

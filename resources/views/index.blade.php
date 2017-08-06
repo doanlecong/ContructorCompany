@@ -4,12 +4,12 @@
    
     <head>
         <meta charset="utf-8"/>
-        <title>FlameOnePage Free Template by FairTech</title>
+        <title>Thiết kế nhà phố | Xây Dựng Tâm Dũng Tâm</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="FlameOnePage freebie theme for web startups by FairTech SEO." name="description"/>
         <meta content="FairTech" name="author"/>
-        <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700|Lobster:bold,bolditalic,italic" rel="stylesheet" type="text/css">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <link href="vendor/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css"/>
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
@@ -41,23 +41,22 @@
 
                     <div class="collapse navbar-collapse nav-collapse">
 					
-					<!--div class="language-switcher">
-					  <ul class="nav-lang">
-                        <li><a class="active" href="#">EN</a></li>
-					    <li><a href="#">DE</a></li>
-						<li><a href="#">FR</a></li>
-					  </ul>
-					</div---> 
-					
+                        <div class="language-switcher">
+                            <ul class="nav-lang">
+                                <li><a class="active" href="#">EN</a></li>
+                                <li><a href="#">DE</a></li>
+                                <li><a href="#">FR</a></li>
+                            </ul>
+                        </div>  
                         <div class="menu-container">
                             <ul class="nav navbar-nav navbar-nav-right">
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#body">Home</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#about">Team</a></li>
-								<li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#services">Services</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#products">Products</a></li>
-								<li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#work">Credentials</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#pricing">Pricing</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#contact">Contact</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#body">Trang Chủ</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#about">Giới Thiệu</a></li>
+								<li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#services">Thiết Kế</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#products">Dự Án</a></li>
+								<li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#work">Dịch Vụ</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#pricing">Báo Giá</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#contact">Liên Hệ</a></li>
                             </ul>
                         </div>
                     </div>
